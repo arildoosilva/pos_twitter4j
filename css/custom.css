@@ -1,0 +1,12 @@
+textarea {
+	resize: none;
+}
+
+table.dataTable th,
+table.dataTable td {
+    white-space: nowrap;
+}
+
+.bg {
+	background: url('../images/twitter.png') no-repeat center left;
+}
